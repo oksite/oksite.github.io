@@ -104,3 +104,4 @@ theme: hexo-theme-quiet
 deploy:
   type: git
   repo: https://github.com/oksite/oksite.github.io.git
+  branch: [master]
