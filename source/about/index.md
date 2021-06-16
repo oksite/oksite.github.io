@@ -1,4 +1,4 @@
 ---
-title: About me
+title:
 date: 2021-06-16 14:35:09
 ---
